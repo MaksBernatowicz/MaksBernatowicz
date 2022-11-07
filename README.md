@@ -1,7 +1,5 @@
+![git banner](https://user-images.githubusercontent.com/96842769/200424667-6724cc7a-22b2-4aa1-a4c2-93b2dd714a3f.png)
 
-
-<h1 align="center">👋 Hi, my name is Maks</h1>
-<h3 align="center">junior frontend developer</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
