@@ -1,6 +1,6 @@
 https://user-images.githubusercontent.com/96842769/201891899-9b2608ce-eac9-4127-a73f-e547806dbc48.mp4
 
-### Link to my portfolio -> <a href="https://maksbernatowicz.com/"> Click here </a>
+## Link to my portfolio -> <a href="https://maksbernatowicz.com/"> click here </a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
